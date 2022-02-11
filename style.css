@@ -1,0 +1,41 @@
+body{
+    text-align:center;
+    font-family: 'Montserrat';
+}
+
+.header_div{
+    width:fit-content;
+    color:white;
+    background-color:gray;
+    font-family: 'Montserrat';
+    padding-top:120px;
+    padding-bottom:120px;
+    margin-bottom:120px;
+}
+
+#resultimg{
+    height:300px;
+    width:300px;
+    border-radius:20px;
+    border-style:dotted;
+    border-color:black;
+    border-width:4px;
+}
+
+.footer{ 
+    position:fixed;
+    bottom:0;
+    color:darkblue;
+    line-height:3;
+    width:100%;
+    font-weight:bold;
+    text-shadow: 5px 5px 5px whitesmoke;
+    text-align:center;
+    font-family: 'Montserrat';
+}
+
+button{
+    font-family: 'Montserrat';
+    letter-spacing:3px;
+    font-weight:bolder;
+}
