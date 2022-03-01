@@ -34,8 +34,20 @@ body{
     font-family: 'Montserrat';
 }
 
-button{
+.button{
     font-family: 'Montserrat';
     letter-spacing:3px;
-    font-weight:bolder;
+}
+
+.header_div p{
+    font-size:20px;
+    letter-spacing:2px;
+    font-family: 'Montserrat';
+    font-weight:bold;
+}
+
+.main_div{
+    font-size:small;
+    font-family: 'Montserrat';
+    font-weight:bold;
 }
